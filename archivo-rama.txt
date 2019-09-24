@@ -1,1 +1,3 @@
 Esto es un archivo de una rama.
+
+Hago un cambio en rama antes de hacer el merge.
